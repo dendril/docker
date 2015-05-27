@@ -7,3 +7,4 @@
 ## List of docker images
 
 * [BackstopJS](/docs/backstopjs.md)
+* [Mockbin](/docs/mockbin.md)
